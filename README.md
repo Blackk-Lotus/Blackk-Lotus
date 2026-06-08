@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Blackk+Lotus+%F0%9F%91%8B;Cybersecurity+Professional;AI+Security+Researcher;GRC+%26+Compliance+Expert;Blockchain+Security+Specialist;Building+Open-Source+Security+Tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Blackk+Lotus+%F0%9F%91%8B;Cybersecurity+Professional;AI+Security+Researcher;GRC+%26+Compliance+Expert;Blockchain+Security+Specialist;Building+Open-Source+Security+Tools" alt="Typing SVG" />
 
 <br/>
 
-<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Blackk-Lotus&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="trophies"/>
 
 </div>
@@ -33,7 +31,7 @@ I build open-source security tools and research the intersection of AI and cyber
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-**Languages & Frameworks**
+**Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,10 +52,10 @@ I build open-source security tools and research the intersection of AI and cyber
 |---|---|
 | [**mcp-security-analyzer**](https://github.com/Blackk-Lotus/mcp-security-analyzer) | 🛡️ Local threat detection MCP server — scans Mac/Windows for malware, backdoors, C2 beaconing |
 | [**HackKit**](https://github.com/Blackk-Lotus/HackKit) | 🧰 Curated cybersecurity resource library — tools, cheat sheets, CTF guides, methodology |
-| [**Vulnerability-Scanner**](https://github.com/Blackk-Lotus/Vulnerability-Scanner) | 🔎 Web application vulnerability scanner with Docker support and dashboard |
-| [**Threat_Intelligence_Platform**](https://github.com/Blackk-Lotus/Threat_Intelligence_Platform) | 🌐 Threat intel aggregation — ingests feeds, enriches IOCs, surfaces intelligence for defenders |
+| [**Vulnerability-Scanner**](https://github.com/Blackk-Lotus/Vulnerability-Scanner) | 🔎 Web app vulnerability scanner with Docker support and dashboard |
+| [**Threat_Intelligence_Platform**](https://github.com/Blackk-Lotus/Threat_Intelligence_Platform) | 🌐 Threat intel aggregation — enriches IOCs, surfaces intelligence for defenders |
 | [**Network-Monitoring**](https://github.com/Blackk-Lotus/Network-Monitoring) | 📡 Python-based network IDS with real-time dashboard |
-| [**llm-security**](https://github.com/Blackk-Lotus/llm-security) | 🤖 LLM application security research — prompt injection, jailbreak analysis |
+| [**llm-security**](https://github.com/Blackk-Lotus/llm-security) | 🤖 LLM security research — prompt injection, jailbreak analysis |
 
 ---
 
@@ -65,24 +63,22 @@ I build open-source security tools and research the intersection of AI and cyber
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Blackk-Lotus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackk-Lotus&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Blackk-Lotus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackk-Lotus&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blackk-Lotus&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Blackk-Lotus&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blackk-Lotus/Blackk-Lotus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blackk-Lotus/Blackk-Lotus/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Blackk-Lotus/Blackk-Lotus/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Blackk-Lotus/Blackk-Lotus/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
 
 ---
 
